@@ -55,12 +55,12 @@ PhungLV/PhungLV is a ✨ special ✨ repository because its `README.md` (this fi
         
         <section>
             <h2>Công tác và về hưu</h2>
-            <p>Sau nhiều năm công tác tại [Đại hoc Y Hà Nội], tôi đã quyết định nghỉ hưu và dành thời gian để tận hưởng cuộc sống bên gia đình và bạn bè.</p>
+            <p>Sau nhiều năm công tác tại Đại hoc Y Hà Nội, tôi đã quyết định nghỉ hưu và dành thời gian để tận hưởng cuộc sống bên gia đình và bạn bè.</p>
         </section>
         
         <section>
             <h2>Quê hương và đất nước</h2>
-            <p>Tôi rất tự hào về quê hương mình - [Xóm Nguyên Giáp, thôn Hoàng Xá, xã Quyết Thắng, huyện Thanh Hà, tỉnh Hải Dương]. Mỗi lần trở về, tôi luôn cảm nhận được sự ấm áp và thân thuộc từ con người và cảnh vật nơi đây.</p>
+            <p>Tôi rất tự hào về quê hương mình: Xóm Nguyên Giáp, thôn Hoàng Xá, xã Quyết Thắng, huyện Thanh Hà, tỉnh Hải Dương]. Mỗi lần trở về, tôi luôn cảm nhận được sự ấm áp và thân thuộc từ con người và cảnh vật nơi đây.</p>
         </section>
         
         <div class="footer">
